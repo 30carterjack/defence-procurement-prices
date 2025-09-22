@@ -1,0 +1,4 @@
+pandas==2.3.2
+openpyxl==3.1.5 # for .xlsx
+xlrd==2.0.2 # for xls
+seaborn==0.13.2
